@@ -40,7 +40,7 @@ An Arduino-based project that automatically switches on a lamp/LED when the envi
 See [ldr_night_lamp.ino](./automatic_night_lamp.ino) for the complete code.  
 
 ## Simulation
-[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/g0uzT0KSBIs/editel?sharecode=Bfq4VAgey4qLAUVJ3RnSBmUV03KZrLXkHdW2JpXAlMg)
+[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/g0uzT0KSBIs-automatic-night-lamp?sharecode=la82lfzK55BSlXXl4FcFCXv48qCetxgfB-hifEdgChg)
 
 
 Main logic:
