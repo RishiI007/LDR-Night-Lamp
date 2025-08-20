@@ -32,12 +32,12 @@ An Arduino-based project that automatically switches on a lamp/LED when the envi
 ---
 
 ## Circuit Diagram
-![Circuit](./circuit.png)
+![Circuit](./Circuit.png)
 
 ---
 
 ## Arduino Code
-See [ldr_night_lamp.ino](./ldr_night_lamp.ino) for the complete code.  
+See [ldr_night_lamp.ino](./automatic_night_lamp.ino) for the complete code.  
 
 ## Simulation
 [View Live Simulation on Tinkercad](PASTE-YOUR-SHAREABLE-LINK-HERE)
